@@ -1,8 +1,8 @@
 import React from 'react'
 import Header from "./component/Header"
-import ControlledCarousel from "./component/ControlledCarousel"
+// import ControlledCarousel from "./component/ControlledCarousel"
 import "./component/App.css"
-import MyeffectCube from "./component/MyeffectCube"
+// import MyeffectCube from "./component/MyeffectCube"
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import About from './component/About'
 import Contact from './component/Contact'

@@ -1,18 +1,16 @@
 import React from 'react'
-import MyeffectCube from './MyeffectCube'
-import Container from 'react-bootstrap/Container';
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
+// import MyeffectCube from './MyeffectCube'
+// import Container from 'react-bootstrap/Container';
+// import Row from 'react-bootstrap/Row';
+// import Col from 'react-bootstrap/Col';
 import Accordion from 'react-bootstrap/Accordion';
 import img from "../assets/about.jfif"
-import EffectCard from './EffectCard';
+// import EffectCard from './EffectCard';
 
 const styleBody = {
     backgroundColor: "rgb(172, 222, 241)"
 }
-const styleHeading = {
-    backgroundColor: "pink"
-}
+
 const About = () => {
     return (
 
